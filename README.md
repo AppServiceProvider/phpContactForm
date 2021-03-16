@@ -21,8 +21,9 @@ lname varchar(20),
 email varchar(20),
 );
 ```
-
+```
 -$host = "localhost";
 -$databasebUser= "roman_user_account";
 -$databasePwd="123";
 -$dataBaseName= "roman_official_database";
+```

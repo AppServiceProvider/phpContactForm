@@ -7,7 +7,7 @@
 ## Basic PHP Contact Form
 
 ### Prerequisites
-XAMPP - Apache web server Code editor
+XAMPP - Apache web server Code editor 127.0.0.1
 
 # Database PhpMyAdmin
 http://localhost/phpmyadmin/

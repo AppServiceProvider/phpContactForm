@@ -11,8 +11,15 @@ XAMPP - Apache web server Code editor 127.0.0.1
 
 # Database PhpMyAdmin
 http://localhost/phpmyadmin/
-### create a new data
+### create a new data TABLE
 ``` SELECT * FROM `roman_data_table` ```
+- SQL 
+``` SELECT fname,lname,email,comment FROM roman_data_table ```
+
+### create a Users name 
+-privileges
+- Add user account & password
+``` roman_user_account ```
 
 ### + roman_data_table
 SQL
